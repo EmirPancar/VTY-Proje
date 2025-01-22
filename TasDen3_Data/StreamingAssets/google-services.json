@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927706240321",
+    "project_id": "unityvote-fbd08",
+    "storage_bucket": "unityvote-fbd08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927706240321:android:16f433400ef72fc8d63dc0",
+        "android_client_info": {
+          "package_name": "com.unipro.ukos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaaJYIEYKd7dnhpOJu4osIbzFq-ClEPrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
